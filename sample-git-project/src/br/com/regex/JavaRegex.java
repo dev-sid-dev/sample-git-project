@@ -14,6 +14,8 @@ public class JavaRegex {
 	
 		String v1 = "[C|E][0-9]{7}(0[1-9][0-9])?0800([0-9]{7})";
 		
+		String a = "";
+		
 		String v2 = "[C|E]";
 		
 		String v3 = "[C|E][0-9]{7}";
