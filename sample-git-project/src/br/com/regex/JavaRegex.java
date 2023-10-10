@@ -21,6 +21,9 @@ public class JavaRegex {
 		String v3 = "[C|E][0-9]{7}";
 		String v4 = "[C|E][0-9]{7}(0[1-9][0-9])?";
 		String v5 = "[C|E][0-9]{7}(0[1-9][0-9])?0800([0-9]{7})";
+		
+		// teste
+		
 				
 		String match_v2 = "C";
 		String match_v3 = "E2323232";
