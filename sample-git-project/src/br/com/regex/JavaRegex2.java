@@ -6,6 +6,7 @@ public class JavaRegex2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Classe nova");
+		System.out.println("Classe nova");
 
 	}
 
