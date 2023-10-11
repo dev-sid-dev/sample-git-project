@@ -12,7 +12,7 @@ public class JavaRegex {
 	
 	public static void main(String args[]) {
 	
-		String v1 = "[C|E][0-9]{7}(0[1-9][0-9])?0800([0-9]{7})";
+		String v1 = "[C|E][0-9]{7}(0[1-9][0-9])?0800([0-9]{6})";
 		
 		String a = "";
 		
